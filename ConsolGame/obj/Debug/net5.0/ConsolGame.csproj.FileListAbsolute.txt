@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\김준표\ConsolGame\obj\Debug\net5.0\ConsolGame.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\김준표\ConsolGame\obj\Debug\net5.0\ConsolGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\김준표\ConsolGame\obj\Debug\net5.0\ConsolGame.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\김준표\ConsolGame\obj\Debug\net5.0\ConsolGame.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\김준표\ConsolGame\obj\Debug\net5.0\ConsolGame.csproj.CoreCompileInputs.cache
